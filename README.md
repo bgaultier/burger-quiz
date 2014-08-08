@@ -23,7 +23,7 @@ Keyboard shortcuts
 * `m` increases the Mayo team score by one point
 * `l` decreases the Mayo team score by one point
 
-When 25 points are points are reached, the "Burger de la mort" transition will be displayed. More info [here](https://raw.githubusercontent.com/bgaultier/burger-quiz/master/burgerquiz.pdf)
+When 25 points are reached, the "Burger de la mort" transition will be displayed. More info [here](https://raw.githubusercontent.com/bgaultier/burger-quiz/master/burgerquiz.pdf)!
 
 
 License
